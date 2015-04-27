@@ -27,5 +27,7 @@ Since domFinder is just a wrapper of test studio framework, so its api is also s
 + [Resource 2](http://docs.telerik.com/teststudio/testing-framework/write-tests-in-code/intermediate-topics-wtc/element-identification-wtc/finding-page-elements)
 
 
+#Note
+For the license reason, you should download telerik test framework and it includes the required library.
 
 [Telerik]:http://www.telerik.com/
